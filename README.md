@@ -1,3 +1,5 @@
+Forked from https://github.com/timrobertsdev/hotcorners
+
 # A small hot corners implementation for Windows 10/11
 
 Provides hot corner functionality for Windows 10/11, similar to GNOME.
